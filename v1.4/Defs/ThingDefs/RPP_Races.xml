@@ -1021,7 +1021,6 @@
 		<race>
 			<mechEnabledWorkTypes>
 				<li>Hauling</li>
-				<li>Hunting</li>
 				<li>BasicWorker</li>
 				<li>Cleaning</li>
 				<li>Cooking</li>
