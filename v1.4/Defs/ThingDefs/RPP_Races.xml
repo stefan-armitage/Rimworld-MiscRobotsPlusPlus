@@ -1021,7 +1021,6 @@
 		<race>
 			<mechEnabledWorkTypes>
 				<li>Hauling</li>
-				<li>Hunting</li>
 				<li>BasicWorker</li>
 				<li>Cleaning</li>
 				<li>Cooking</li>
@@ -1049,12 +1048,10 @@
 			<Crafting>2</Crafting>
 			<Construction>2</Construction>
 			<Mining>2</Mining>
-			<Hunting>3</Hunting>
 			<Research>2</Research>
         </mechWorkTypePriorities>
 		</race>
 		<robotWorkTypes>
-			<li><workTypeDef>Hunting</workTypeDef><priority>3</priority></li>
 			<li><workTypeDef>Hauling</workTypeDef><priority>2</priority></li>
 			<li><workTypeDef>Cleaning</workTypeDef><priority>3</priority></li>
 			<li><workTypeDef>Cooking</workTypeDef><priority>2</priority></li>
